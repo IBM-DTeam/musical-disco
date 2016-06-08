@@ -1,0 +1,9 @@
+body{
+  background-color: #45678;
+}
+.invalid{
+  border: 1px solid red;
+}
+.valid{
+  border: 2px solid green;
+}
